@@ -40,9 +40,22 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
 ## DP on Trees
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
