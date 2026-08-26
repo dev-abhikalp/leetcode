@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -58,4 +60,16 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
