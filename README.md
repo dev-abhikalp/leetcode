@@ -6,6 +6,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
+| [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -84,4 +85,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-abhikalp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
