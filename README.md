@@ -8,6 +8,7 @@
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Timsort
 |  |
 | ------- |
