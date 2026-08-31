@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
