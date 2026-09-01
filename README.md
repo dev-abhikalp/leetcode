@@ -12,6 +12,7 @@
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -48,6 +49,7 @@
 | [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/dev-abhikalp/leetcode/tree/master/0217-contains-duplicate) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
+| [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -111,6 +113,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
