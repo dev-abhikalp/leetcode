@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/dev-abhikalp/leetcode/tree/master/0057-insert-interval) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/dev-abhikalp/leetcode/tree/master/0217-contains-duplicate) |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -103,13 +104,27 @@
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
