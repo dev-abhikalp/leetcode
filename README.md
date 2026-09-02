@@ -111,11 +111,13 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0732-my-calendar-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0732-my-calendar-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 ## Quicksort
@@ -126,14 +128,17 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0732-my-calendar-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
