@@ -17,6 +17,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4256-construct-uniform-parity-array-i](https://github.com/dev-abhikalp/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/dev-abhikalp/leetcode/tree/master/0066-plus-one) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4256-construct-uniform-parity-array-i](https://github.com/dev-abhikalp/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
