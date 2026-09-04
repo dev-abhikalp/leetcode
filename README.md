@@ -20,6 +20,7 @@
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dev-abhikalp/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dev-abhikalp/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/dev-abhikalp/leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/dev-abhikalp/leetcode/tree/master/1206-corporate-flight-bookings) |
+| [4284-smallest-stable-index-i](https://github.com/dev-abhikalp/leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Quicksort
 |  |
 | ------- |
