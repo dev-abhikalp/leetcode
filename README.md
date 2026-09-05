@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dev-abhikalp/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/dev-abhikalp/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dev-abhikalp/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dev-abhikalp/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dev-abhikalp/leetcode/tree/master/0066-plus-one) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dev-abhikalp/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
@@ -102,6 +104,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dev-abhikalp/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
