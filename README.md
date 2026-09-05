@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-abhikalp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +165,12 @@
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
