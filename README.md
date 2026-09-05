@@ -25,6 +25,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/dev-abhikalp/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dev-abhikalp/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/dev-abhikalp/leetcode/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/dev-abhikalp/leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/dev-abhikalp/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [4284-smallest-stable-index-i](https://github.com/dev-abhikalp/leetcode/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/dev-abhikalp/leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Quicksort
 |  |
 | ------- |
