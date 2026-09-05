@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/dev-abhikalp/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
+| [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/dev-abhikalp/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Timsort
