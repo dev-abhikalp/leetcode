@@ -10,6 +10,7 @@
 | [0057-insert-interval](https://github.com/dev-abhikalp/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dev-abhikalp/leetcode/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/dev-abhikalp/leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/dev-abhikalp/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
 | [0731-my-calendar-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0731-my-calendar-ii) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dev-abhikalp/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/dev-abhikalp/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
