@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dev-abhikalp/leetcode/tree/master/0066-plus-one) |
+| [1033-broken-calculator](https://github.com/dev-abhikalp/leetcode/tree/master/1033-broken-calculator) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dev-abhikalp/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dev-abhikalp/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -116,6 +117,7 @@
 | [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/dev-abhikalp/leetcode/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/dev-abhikalp/leetcode/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/1252-break-a-palindrome) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Timsort
