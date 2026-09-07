@@ -116,6 +116,7 @@
 | [0890-lemonade-change](https://github.com/dev-abhikalp/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/dev-abhikalp/leetcode/tree/master/0985-bag-of-tokens) |
+| [1252-break-a-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/1252-break-a-palindrome) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Timsort
 |  |
@@ -126,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-abhikalp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1252-break-a-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/1252-break-a-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
