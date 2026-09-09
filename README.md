@@ -85,6 +85,7 @@
 | [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dev-abhikalp/leetcode/tree/master/0871-keys-and-rooms) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dev-abhikalp/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -94,15 +95,18 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dev-abhikalp/leetcode/tree/master/0871-keys-and-rooms) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dev-abhikalp/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dev-abhikalp/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dev-abhikalp/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dev-abhikalp/leetcode/tree/master/0871-keys-and-rooms) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dev-abhikalp/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,11 +206,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
