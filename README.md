@@ -106,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/dev-abhikalp/leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/dev-abhikalp/leetcode/tree/master/0985-bag-of-tokens) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-abhikalp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1252-break-a-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/1252-break-a-palindrome) |
 ## Sliding Window
@@ -190,4 +192,20 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
