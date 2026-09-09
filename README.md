@@ -132,6 +132,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-abhikalp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/dev-abhikalp/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dev-abhikalp/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1252-break-a-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/1252-break-a-palindrome) |
 ## Sliding Window
@@ -183,6 +184,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/dev-abhikalp/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 ## Stack
 |  |
@@ -200,11 +202,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
