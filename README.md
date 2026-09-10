@@ -47,11 +47,13 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dev-abhikalp/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dev-abhikalp/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0871-keys-and-rooms](https://github.com/dev-abhikalp/leetcode/tree/master/0871-keys-and-rooms) |
 | [1008-binary-tree-cameras](https://github.com/dev-abhikalp/leetcode/tree/master/1008-binary-tree-cameras) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dev-abhikalp/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dev-abhikalp/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -206,11 +209,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
