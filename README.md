@@ -22,6 +22,7 @@
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/dev-abhikalp/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dev-abhikalp/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/dev-abhikalp/leetcode/tree/master/2245-destroying-asteroids) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -37,6 +38,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dev-abhikalp/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/dev-abhikalp/leetcode/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/dev-abhikalp/leetcode/tree/master/0940-fruit-into-baskets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dev-abhikalp/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -75,6 +77,7 @@
 | [0917-boats-to-save-people](https://github.com/dev-abhikalp/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/dev-abhikalp/leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/dev-abhikalp/leetcode/tree/master/1184-car-pooling) |
+| [2215-finding-3-digit-even-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/dev-abhikalp/leetcode/tree/master/2245-destroying-asteroids) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/dev-abhikalp/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -215,12 +218,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
