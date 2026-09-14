@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
+## Math
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
