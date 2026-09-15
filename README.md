@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
+| [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
 | [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
+| [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Geometry
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
+| [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +84,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
