@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
@@ -31,6 +32,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
