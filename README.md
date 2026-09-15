@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
