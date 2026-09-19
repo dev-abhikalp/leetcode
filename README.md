@@ -52,11 +52,13 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
 | [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/dev-abhikalp/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Geometry
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/dev-abhikalp/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
 | ------- |
