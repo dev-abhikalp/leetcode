@@ -10,6 +10,7 @@
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
@@ -72,12 +73,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
+| [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
+| [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Design
 |  |
