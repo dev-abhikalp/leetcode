@@ -29,6 +29,7 @@
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
