@@ -40,6 +40,7 @@
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
