@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dev-abhikalp/leetcode/tree/master/0258-add-digits) |
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dev-abhikalp/leetcode/tree/master/0258-add-digits) |
 | [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/dev-abhikalp/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -108,4 +110,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dev-abhikalp/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
