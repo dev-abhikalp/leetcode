@@ -17,6 +17,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Stack
 |  |
@@ -91,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
@@ -127,4 +129,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-abhikalp/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
