@@ -13,6 +13,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Matrix
 |  |
 | ------- |
