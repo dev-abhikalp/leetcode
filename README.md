@@ -13,6 +13,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -47,6 +48,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -98,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
