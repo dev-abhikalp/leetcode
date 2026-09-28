@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/dev-abhikalp/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-abhikalp/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/dev-abhikalp/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
 | ------- |
