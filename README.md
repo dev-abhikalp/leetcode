@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
@@ -48,6 +49,7 @@
 | [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -183,4 +187,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
