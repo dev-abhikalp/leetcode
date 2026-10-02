@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
@@ -90,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -166,6 +169,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
