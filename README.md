@@ -19,6 +19,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-abhikalp/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -66,6 +67,7 @@
 | [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev-abhikalp/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev-abhikalp/leetcode/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
