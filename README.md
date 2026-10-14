@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/dev-abhikalp/leetcode/tree/master/0260-single-number-iii) |
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -123,6 +124,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/dev-abhikalp/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -203,4 +205,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
+| [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
