@@ -21,6 +21,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-abhikalp/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -128,6 +129,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -178,6 +180,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -218,4 +221,8 @@
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
