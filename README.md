@@ -124,6 +124,7 @@
 | [0049-group-anagrams](https://github.com/dev-abhikalp/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/dev-abhikalp/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -210,18 +211,21 @@
 | ------- |
 | [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Tree
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Indexed Tree
