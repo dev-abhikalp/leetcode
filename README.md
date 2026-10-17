@@ -24,6 +24,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-abhikalp/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -133,6 +134,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
@@ -143,6 +145,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
 ## Design
