@@ -20,6 +20,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dev-abhikalp/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -145,6 +146,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dev-abhikalp/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
@@ -162,6 +164,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dev-abhikalp/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
