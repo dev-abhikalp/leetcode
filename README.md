@@ -30,6 +30,7 @@
 | [4045-longest-balanced-subarray-i](https://github.com/dev-abhikalp/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
+| [4257-sum-of-sortable-integers](https://github.com/dev-abhikalp/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-abhikalp/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/dev-abhikalp/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4257-sum-of-sortable-integers](https://github.com/dev-abhikalp/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dev-abhikalp/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/dev-abhikalp/leetcode/tree/master/4107-find-missing-elements) |
+| [4257-sum-of-sortable-integers](https://github.com/dev-abhikalp/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Design
 |  |
 | ------- |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Enumeration
+|  |
+| ------- |
+| [4257-sum-of-sortable-integers](https://github.com/dev-abhikalp/leetcode/tree/master/4257-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
