@@ -67,6 +67,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
