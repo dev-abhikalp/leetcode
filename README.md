@@ -138,6 +138,7 @@
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dev-abhikalp/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev-abhikalp/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dev-abhikalp/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Tree
 |  |
@@ -241,6 +245,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -251,6 +256,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Indexed Tree
 |  |
