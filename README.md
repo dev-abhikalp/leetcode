@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dev-abhikalp/leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -233,6 +235,7 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -242,6 +245,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -264,4 +268,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dev-abhikalp/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
