@@ -69,6 +69,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-abhikalp/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2496-count-days-spent-together](https://github.com/dev-abhikalp/leetcode/tree/master/2496-count-days-spent-together) |
 | [3811-reverse-degree-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -102,6 +103,7 @@
 | [0258-add-digits](https://github.com/dev-abhikalp/leetcode/tree/master/0258-add-digits) |
 | [0866-rectangle-overlap](https://github.com/dev-abhikalp/leetcode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/dev-abhikalp/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2496-count-days-spent-together](https://github.com/dev-abhikalp/leetcode/tree/master/2496-count-days-spent-together) |
 | [3212-count-the-number-of-good-partitions](https://github.com/dev-abhikalp/leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-abhikalp/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
