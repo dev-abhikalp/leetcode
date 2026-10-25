@@ -15,6 +15,7 @@
 | [0983-validate-stack-sequences](https://github.com/dev-abhikalp/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
+| [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/dev-abhikalp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -217,6 +219,7 @@
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
+| [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Combinatorics
 |  |
@@ -236,6 +239,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dev-abhikalp/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Tree
@@ -280,4 +284,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
