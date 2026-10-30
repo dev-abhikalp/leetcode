@@ -219,6 +219,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/dev-abhikalp/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -238,6 +239,7 @@
 | [0079-word-search](https://github.com/dev-abhikalp/leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/dev-abhikalp/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -251,6 +253,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/dev-abhikalp/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -262,6 +265,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev-abhikalp/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dev-abhikalp/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/dev-abhikalp/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/dev-abhikalp/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/dev-abhikalp/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0904-leaf-similar-trees](https://github.com/dev-abhikalp/leetcode/tree/master/0904-leaf-similar-trees) |
