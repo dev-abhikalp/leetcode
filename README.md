@@ -17,6 +17,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhikalp/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1380-number-of-closed-islands](https://github.com/dev-abhikalp/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dev-abhikalp/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dev-abhikalp/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -132,6 +133,7 @@
 | [0011-container-with-most-water](https://github.com/dev-abhikalp/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/dev-abhikalp/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-abhikalp/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dev-abhikalp/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dev-abhikalp/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -162,6 +164,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev-abhikalp/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1188-brace-expansion-ii](https://github.com/dev-abhikalp/leetcode/tree/master/1188-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/dev-abhikalp/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dev-abhikalp/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dev-abhikalp/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dev-abhikalp/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhikalp/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dev-abhikalp/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dev-abhikalp/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dev-abhikalp/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dev-abhikalp/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
